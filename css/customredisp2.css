@@ -26,15 +26,6 @@ height: auto;
    background-color:#fff;
 }
 
-/* new */
-
-/* .dancing-script-<uniquifier> {
-  font-family: "Dancing Script", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-} */
-
 .outofstock {
 cursor: default;
 opacity: 0.5;
